@@ -1,0 +1,71 @@
+Index: ../../.AndroidStudio2.3/config/options/git.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../.AndroidStudio2.3/config/options/git.xml	(revision )
++++ ../../.AndroidStudio2.3/config/options/git.xml	(revision )
+@@ -0,0 +1,6 @@
++<application>
++  <component name="Git.Application.Settings">
++    <option name="myPathToGit" value="C:\Program Files\Git\cmd\git.exe" />
++    <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
++  </component>
++</application>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/vcs.xml	(revision )
++++ .idea/vcs.xml	(revision )
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++    <mapping directory="$USER_HOME$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: ../../.AndroidStudio2.3/config/options/security.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../.AndroidStudio2.3/config/options/security.xml	(revision )
++++ ../../.AndroidStudio2.3/config/options/security.xml	(revision )
+@@ -0,0 +1,16 @@
++<application>
++  <component name="PasswordDatabase">
++    <option name="PASSWORDS">
++      <array>
++        <array>
++          <option value="a0e262a2698f5a881d37aff8796ca1269d90f417464394fdefef21c4daf7591e" />
++          <option value="c74f4fbecf64f6ecb6e582f4441eacc04f4486e59fabe0c789e9db66c654b699" />
++        </array>
++        <array>
++          <option value="70eb16de1fa8e1af1171e2dcea37250c88322f64b078e257ed522c33c4a1bc98" />
++          <option value="dfebb88c292e99329a2c316374fc9e10c2e9b543c345b287edb2997e4a79e947" />
++        </array>
++      </array>
++    </option>
++  </component>
++</application>
+\ No newline at end of file
+Index: ../../.AndroidStudio2.3/config/options/github_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../.AndroidStudio2.3/config/options/github_settings.xml	(revision )
++++ ../../.AndroidStudio2.3/config/options/github_settings.xml	(revision )
+@@ -0,0 +1,6 @@
++<application>
++  <component name="GithubSettings">
++    <option name="LOGIN" value="renan.costas@hotmail.com" />
++    <option name="AUTH_TYPE" value="BASIC" />
++  </component>
++</application>
+\ No newline at end of file
